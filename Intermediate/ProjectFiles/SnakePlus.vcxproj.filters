@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SnakePlus.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SnakePlus.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SnakePlusEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\SnakePlus">
+      <UniqueIdentifier>{61D42FE8-68C3-30B9-A105-EC5DC2BA1A08}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SnakePlus\SnakePlus.Build.cs">
+      <Filter>Source\SnakePlus</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SnakePlus\SnakePlus.cpp">
+      <Filter>Source\SnakePlus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SnakePlus\SnakePlus.h">
+      <Filter>Source\SnakePlus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SnakePlus\SnakePlusGameModeBase.cpp">
+      <Filter>Source\SnakePlus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SnakePlus\SnakePlusGameModeBase.h">
+      <Filter>Source\SnakePlus</Filter>
+    </ClInclude>
+    <Filter Include="Source\SnakePlus\Public">
+      <UniqueIdentifier>{D5E9E3DB-A32F-3B53-8A3A-ABE8B4AB79BD}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\SnakePlus\Public\Temp1.h">
+      <Filter>Source\SnakePlus\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SnakePlus\Public\Temp.h">
+      <Filter>Source\SnakePlus\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\SnakePlus\Private">
+      <UniqueIdentifier>{6E9C1A9F-61E8-386E-87C7-3C06F8BFF1D7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SnakePlus\Private\Temp1.cpp">
+      <Filter>Source\SnakePlus\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SnakePlus\Private\Temp.cpp">
+      <Filter>Source\SnakePlus\Private</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

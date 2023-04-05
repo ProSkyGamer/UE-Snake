@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SnakePlus",
+			"Path": "E:\\UEProjects\\SnakePlus\\Source\\SnakePlus.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SnakePlusEditor",
+			"Path": "E:\\UEProjects\\SnakePlus\\Source\\SnakePlusEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

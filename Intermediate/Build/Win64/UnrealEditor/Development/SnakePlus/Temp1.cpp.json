@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ueprojects\\snakeplus\\source\\snakeplus\\private\\temp1.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ueprojects\\snakeplus\\intermediate\\build\\win64\\snakepluseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\ueprojects\\snakeplus\\intermediate\\build\\win64\\unrealeditor\\development\\snakeplus\\definitions.snakeplus.h",
+            "e:\\ueprojects\\snakeplus\\source\\snakeplus\\public\\temp1.h",
+            "e:\\ueprojects\\snakeplus\\intermediate\\build\\win64\\unrealeditor\\inc\\snakeplus\\temp1.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

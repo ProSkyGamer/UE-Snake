@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ueprojects\\snakeplus\\source\\snakeplus\\snakeplusgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ueprojects\\snakeplus\\intermediate\\build\\win64\\snakepluseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\ueprojects\\snakeplus\\intermediate\\build\\win64\\unrealeditor\\development\\snakeplus\\definitions.snakeplus.h",
+            "e:\\ueprojects\\snakeplus\\source\\snakeplus\\snakeplusgamemodebase.h",
+            "e:\\progfiles\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\progfiles\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\progfiles\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "e:\\progfiles\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "e:\\ueprojects\\snakeplus\\intermediate\\build\\win64\\unrealeditor\\inc\\snakeplus\\snakeplusgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
